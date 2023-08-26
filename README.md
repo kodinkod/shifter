@@ -12,9 +12,9 @@ Place the image in the "data" folder query_1.jpg and target_1.jpg -> run detect_
 2. use knnMather; Match target keypoint and querry keypoint.
 3. Calculate dX=sum(dx1, dx2, .. ), dY=sum(dy1, dy2, .. ) ->cos, sin, and show shift.
 
-'keypoint = (x, y)'
+keypoint = (x, y)
 
-'dx = x2-x1; x2 - target x, x1 - target y;'
+dx = x2-x1; x2 - target x, x1 - target y;
 
 ![info](info.jpeg)
 
