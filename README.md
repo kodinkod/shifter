@@ -1,4 +1,4 @@
-# shifter [https://github.com/kodinkod/shifter/blob/main/detect_shift.ipynb](notebook)
+# shifter [ notebook](https://github.com/kodinkod/shifter/blob/main/detect_shift.ipynb)
 A way to determine the direction in which you need to move the image so that the image matches the specified image. Use SIFT technology.
 
 ![test](image/result_8.jpg)
